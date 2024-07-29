@@ -1,0 +1,26 @@
+.box{
+    width: 600px;
+    height: 270px;
+    background-color: rgb(229, 196, 202);
+    border-top:4px solid red;
+    border-bottom:4px solid red;
+    margin: 0 auto;
+    margin-top: 5cm;
+}
+h2{
+    padding-left: 20px;
+    padding-top: 20px;
+}
+
+.char{
+    display:flex;
+    flex-direction: row;
+    font-size: 20px;
+    color: gray;
+    padding-left: 20px;
+}
+textarea{
+    width: 500px;
+    height: 100px;
+    margin-left: 20px;
+}
